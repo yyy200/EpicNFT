@@ -1,0 +1,7 @@
+cd client
+npm run build
+cd ..
+mv client/build docs
+git add docs
+git commit -m "Deploy $1"
+git push origin master

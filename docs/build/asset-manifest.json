@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/EpicNFT/static/css/main.e7d1b1cd.chunk.css",
+    "main.js": "/EpicNFT/static/js/main.25cf063a.chunk.js",
+    "main.js.map": "/EpicNFT/static/js/main.25cf063a.chunk.js.map",
+    "runtime-main.js": "/EpicNFT/static/js/runtime-main.0de1f378.js",
+    "runtime-main.js.map": "/EpicNFT/static/js/runtime-main.0de1f378.js.map",
+    "static/js/2.5cec3306.chunk.js": "/EpicNFT/static/js/2.5cec3306.chunk.js",
+    "static/js/2.5cec3306.chunk.js.map": "/EpicNFT/static/js/2.5cec3306.chunk.js.map",
+    "index.html": "/EpicNFT/index.html",
+    "static/css/main.e7d1b1cd.chunk.css.map": "/EpicNFT/static/css/main.e7d1b1cd.chunk.css.map",
+    "static/js/2.5cec3306.chunk.js.LICENSE.txt": "/EpicNFT/static/js/2.5cec3306.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.a8a75254.svg": "/EpicNFT/static/media/twitter-logo.a8a75254.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0de1f378.js",
+    "static/js/2.5cec3306.chunk.js",
+    "static/css/main.e7d1b1cd.chunk.css",
+    "static/js/main.25cf063a.chunk.js"
+  ]
+}
